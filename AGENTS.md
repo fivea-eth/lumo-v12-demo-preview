@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository is a public, static preview artifact for the accepted LUMO V12 720p demo. The private `lumo-interactive-demo` repository remains the source of truth.
+This repository is a public, static preview artifact for the accepted LUMO V12 720p demo. It supports an English default and a complete Simplified Chinese browsing mode through `?lang=zh`. The private `lumo-interactive-demo` workspace remains the source of truth.
 
 ## Structure
 
